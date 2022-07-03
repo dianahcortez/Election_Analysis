@@ -39,4 +39,4 @@ Diana DeGette, who received 73.81% of the vote and 272,892 number of votes.
 ## Challenge Overview
 
 ## Challenge Summary
-The key findings from this election analysis were that there were three candidates, and the winning candidate Diana Degette received 73.81% of the vote, and a total 272,892 of the entire election votes numbering 369,711.
+
