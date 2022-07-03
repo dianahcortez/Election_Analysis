@@ -44,6 +44,6 @@ After submitting my initial analysis, additional data has been requested from th
 3. The county with the highest turnout.
 
 ## Challenge Summary
-In performing this additional analysis we can see that Denver County had the greatest voter turnout at 82.8% of the total votes.  This allows the client to see what counties they might want to focus on in statewide voting initiatives down the road.
+In performing this additional analysis we can see that Denver County had the greatest voter turnout at 82.8% of the total votes.  This allows the client to see what counties they might want to focus on in statewide voting initiatives down the road.  Potential modifications to this script that could be used for any election down the road would be how each candidate did in each of the counties, versus just looking at the total votes across all counties.  Another modification would be to compare eligible voters in each of the counties to the total who voted in each county. 
 
 <img width="500" alt="Challenge Final Result" src="https://user-images.githubusercontent.com/104927745/177052419-a051c6f1-7fef-4cee-a341-71d04e57c505.PNG">
