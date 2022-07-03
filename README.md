@@ -1,5 +1,5 @@
 # Election_Analysis
-##Project Overview
+## Project Overview
 A Colorado Board of Elections employees has given me the following tasks to complete the election audit of a recent local congressional election.
 
   1. Calculate the total number of votes cast.
@@ -8,11 +8,11 @@ A Colorado Board of Elections employees has given me the following tasks to comp
   4. Calculate the percentage of votes each candidate won.
   5. Determine the winner of the election based on popular vote.
   
-  ##Resources
+  ## Resources
   -Data source: election_results.csv
   -Software: Python 3.6.1., Visual Studio Code, 1.38.1
   
-  ##Summary
+  ## Summary
   The analysis of the election show that:
   -There were 369,711 votes cast in the election.
   <img width="500" alt="total votes" src="https://user-images.githubusercontent.com/104927745/177019546-51cb8a28-ef3f-4879-882a-595f354c1ab0.PNG">
@@ -32,7 +32,7 @@ A Colorado Board of Elections employees has given me the following tasks to comp
     -Diana DeGette, who received 73.81% of the vote and 272,892 number of votes.
  <img width="500" alt="winner snip" src="https://user-images.githubusercontent.com/104927745/177019559-a77c76c0-0195-4d39-bada-5adb185c4e7f.PNG">
 
-##Challenge Overview
+## Challenge Overview
 
-#Challenge Summary
+## Challenge Summary
 -The key findings from this election analysis were that there were three candidates, and the winning candidate Diana Degette received 73.81% of the vote, and a total 272,892 of the entire election votes numbering 369,711.
