@@ -38,6 +38,10 @@ Diana DeGette, who received 73.81% of the vote and 272,892 number of votes.
 <img width="500" alt="winner snip" src="https://user-images.githubusercontent.com/104927745/177019559-a77c76c0-0195-4d39-bada-5adb185c4e7f.PNG">
 
 ## Challenge Overview
+After submitting my initial analysis, additional data has been requested from the client, the election commission.  The client would like the below data:
+1. The voter turnout for each county.
+2. The percentage of votes from each county out of the total count.
+3. The county with the highest turnout.
 
 ## Challenge Summary
 
