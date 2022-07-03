@@ -45,3 +45,4 @@ After submitting my initial analysis, additional data has been requested from th
 
 ## Challenge Summary
 
+<img width="500" alt="Challenge Final Result" src="https://user-images.githubusercontent.com/104927745/177052419-a051c6f1-7fef-4cee-a341-71d04e57c505.PNG">
