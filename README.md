@@ -23,7 +23,8 @@ There were 369,711 votes cast in the election.
 1. Raymon Anthony Doane
 2. Diana DeGette
 3. Charles Casper Stockham
-    
+<img width="500" alt="names of candidates" src="https://user-images.githubusercontent.com/104927745/177019900-01b5162c-7e80-4fa0-b4e5-e9fb2093a706.PNG">
+ 
 ### The candidate results were:   
 1. Raymon Anthony Doane 3.14% of the vote and 11,606 number of votes.
 2. Diana DeGette 73.81% of the vote and 272,892 number of votes.
